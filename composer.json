@@ -1,0 +1,19 @@
+{
+    "name": "ydtb/post-not-found-for-elementor",
+    "description": "This plugin adds an interface to elementor pro that allows you to select a template or text to show when a list of posts is displayed and none are found.",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ElementorPostNotFound\\": "includes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "John Kraczek",
+            "email": "john@kraczek.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
