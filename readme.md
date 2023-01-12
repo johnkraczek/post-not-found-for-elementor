@@ -14,7 +14,7 @@
         <img src="https://img.shields.io/github/issues/johnkraczek/post-not-found-for-elementor.svg?style=for-the-badge">
     </a>
     <a href="https://github.com/johnkraczek/post-not-found-for-elementor/blob/master/LICENSE">
-        <img src="https://img.shields.io/github/license/johnkraczek/post-not-found-for-elementor.svg?style=for-the-badge">
+        <img src="https://img.shields.io/github/license/johnkraczek/post-not-found-for-elementor?style=for-the-badge">
     </a>
 </p>
 <br />
